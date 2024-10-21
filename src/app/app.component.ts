@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PLSDIN goes Hybrid Cloud @ Datacenter</title>
+    <title>PLSDIN goes Hybrid Cloud @ Azure</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -54,11 +54,11 @@ import { Component } from '@angular/core';
 <body>
 
 <header>
-    <h1>PLSDIN goes Hybrid Cloud @ Datacenter</h1>
+    <h1>PLSDIN goes Hybrid Cloud @ Azure</h1>
 </header>
 
 <main>
-    <h2>PLSDIN goes hybrid cloud @datacenter</h2>
+    <h2>PLSDIN goes hybrid cloud @ Azure</h2>
 </main>
 
 <footer>
