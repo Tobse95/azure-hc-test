@@ -11,13 +11,13 @@ import { Component } from '@angular/core';
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #d4f2f5;
+            background-color: #000064;
             margin: 0;
             padding: 0;
         }
 
         header {
-            background-color: #000064;
+            background-color: #d4f2f5;
             color: white;
             text-align: center;
             padding: 50px 0;
@@ -41,7 +41,7 @@ import { Component } from '@angular/core';
         }
 
         footer {
-            background-color: #000064;
+            background-color: #d4f2f5;
             color: white;
             text-align: center;
             padding: 10px 0;
