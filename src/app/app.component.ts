@@ -15,29 +15,34 @@ import { Component } from '@angular/core';
             margin: 0;
             padding: 0;
         }
+
         header {
             background-color: #000064;
-            color: white;
+            color: #d4f2f5;
             text-align: center;
             padding: 50px 0;
         }
+
         header h1 {
             margin: 0;
             font-size: 36px;
         }
+
         main {
             display: flex;
             justify-content: center;
             align-items: center;
             height: 70vh;
         }
+
         main h2 {
             font-size: 28px;
-            color: #333;
+            color: #000064;
         }
+
         footer {
             background-color: #000064;
-            color: white;
+            color: #d4f2f5;
             text-align: center;
             padding: 10px 0;
             position: fixed;
