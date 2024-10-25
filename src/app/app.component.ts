@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PLSDIN goes Hybrid Cloud @ Datacenter</title>
+    <title>PLSDIN goes Hybrid Cloud @ Azure</title>
     <style>
         body {
             font-family: Arial, sans-serif;
