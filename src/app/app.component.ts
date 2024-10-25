@@ -18,7 +18,7 @@ import { Component } from '@angular/core';
 
         header {
             background-color: #d4f2f5;
-            color: white;
+            color: #d4f2f5;
             text-align: center;
             padding: 50px 0;
         }
@@ -37,14 +37,15 @@ import { Component } from '@angular/core';
 
         main h2 {
             font-size: 28px;
-            color: #333;
+            color: white;
         }
 
         footer {
             background-color: #d4f2f5;
-            color: white;
+
             text-align: center;
             padding: 10px 0;
+            color: #d4f2f5;
             position: fixed;
             width: 100%;
             bottom: 0;
