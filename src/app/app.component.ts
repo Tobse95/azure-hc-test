@@ -56,7 +56,7 @@ import { Component } from '@angular/core';
     <h1>PLSDIN goes Hybrid Cloud @ Azure</h1>
 </header>
 <main>
-    <h2>PLSDIN goes hybrid cloud @datacenter</h2>
+    <h2>PLSDIN goes hybrid cloud @ Azure</h2>
 </main>
 <footer>
     <p>&copy; 2024 PLSDIN - All Rights Reserved</p>
