@@ -17,7 +17,7 @@ import { Component } from '@angular/core';
         }
         header {
             background-color: #d4f2f5;
-            color: #d4f2f5;
+            color: #000064;
             text-align: center;
             padding: 50px 0;
         }
@@ -44,7 +44,7 @@ import { Component } from '@angular/core';
 
             text-align: center;
             padding: 10px 0;
-            color: #d4f2f5;
+            color: #000064;
             position: fixed;
             width: 100%;
             bottom: 0;
